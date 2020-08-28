@@ -1,10 +1,9 @@
-### Hi, I am Manya Girdhar
-I am a second-year Artificial Intelligence student at The University of Manchester. 
+## Hi, I'm Manya
+I am a second-year Artificial Intelligence student at The University of Manchester. I am also a moonshot thinker 🚀 and a proud woman in the tech industry 👩‍💻. I am striving to be a better software developer, a leader and most importantly a role model that would hopefully inspire others to go beyond their capabilities.✨ 
 
+🔭 My current interests include Neural Networks, Project Management and Quantum Computing. 
 
-
-- 🔭 I’m currently interested in Neural Networks, Quantum Computing and Project Management. 
-- 📫 Find me on: [Linkedin](https://www.linkedin.com/in/manya-girdhar/)
+#### ⚡ I am looking for Summer Internships and Work Long Placements for 2021. Connect with me on [Linkedin](https://www.linkedin.com/in/manya-girdhar/)
 
 <!--
 **manya-girdhar/manya-girdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
