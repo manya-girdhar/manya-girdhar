@@ -1,5 +1,5 @@
 ## Hi, I'm Manya
-I am a second-year Artificial Intelligence student at The University of Manchester. I am also a moonshot thinker 🚀 and a proud woman in the tech industry 👩‍💻. I am striving to be a better software developer, a leader and most importantly a role model that would hopefully inspire others to go beyond their capabilities.✨ 
+I am a second-year Artificial Intelligence student at The University of Manchester. I am also a moonshot thinker 🚀 and a proud woman in the tech industry 👩‍💻. I am striving to be a better software developer, a better leader and most importantly a better role model that would hopefully inspire others to go beyond their capabilities.✨ 
 
 🔭 My current interests include Neural Networks, Project Management and Quantum Computing. 
 
