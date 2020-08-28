@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I am Manya Girdhar
+I am a second-year Artificial Intelligence student at The University of Manchester. 
+
+
+
+- 🔭 I’m currently interested in Neural Networks, Quantum Computing and Project Management. 
+- 📫 Find me on: [Linkedin](https://www.linkedin.com/in/manya-girdhar/)
 
 <!--
 **manya-girdhar/manya-girdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
