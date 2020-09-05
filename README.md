@@ -3,7 +3,7 @@ I am a second-year Artificial Intelligence student at The University of Manchest
 
 🔭 My current interests include Neural Networks, Project Management and Quantum Computing. 
 
-#### ⚡ I am open for Summer Internships and Work Long Placements in 2021. Connect with me on [Linkedin](https://www.linkedin.com/in/manya-girdhar/)
+#### ⚡ I am open for Summer Internships and Work Long Placements starting July 2021. Connect with me on [Linkedin](https://www.linkedin.com/in/manya-girdhar/)
 
 <!--
 **manya-girdhar/manya-girdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
